@@ -5,6 +5,7 @@
 
 
 ## Education
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion. Google Classroom sync, Gemini AI study plans, SRS flashcards, AI quiz generator, MCP server for Claude Code. ([Demo](https://shiori-v1.vercel.app))
 
 - [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Student productivity MCP server. Access assignments, grades, notes, and flashcards from Claude Code. Google Classroom sync + Gemini AI.
 
