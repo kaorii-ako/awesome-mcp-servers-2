@@ -3,6 +3,11 @@
 > [!NOTE]
 > We do not accept PRs. Please submit your MCP on the website: https://mcpservers.org/submit
 
+
+## Education
+
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Student productivity MCP server. Access assignments, grades, notes, and flashcards from Claude Code. Google Classroom sync + Gemini AI.
+
 ## Sponsors
 
 <div align="center">
