@@ -3,11 +3,6 @@
 > [!NOTE]
 > We do not accept PRs. Please submit your MCP on the website: https://mcpservers.org/submit
 
-
-## Education
-
-- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Student productivity MCP server. Access assignments, grades, notes, and flashcards from Claude Code. Google Classroom sync + Gemini AI.
-
 ## Sponsors
 
 <div align="center">
@@ -40,6 +35,16 @@
     </td>
     <td>
       <a href="https://kone.vc/?utm_source=mcpservers">Monetize your AI agent with contextual product recommendations</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://docs.heyneo.com/neo-mcp">
+        <img src="assets/neo.png" width="200" alt="Neo Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://docs.heyneo.com/neo-mcp">NEO MCP lets Claude Code, Cursor and VS Code hand off complex AI engineering tasks like AI model evals, AI agent optimization and more to NEO.</a>
     </td>
   </tr>
 </table>
@@ -316,6 +321,8 @@ Official integrations are maintained by companies building production ready MCP 
 - **[AnyCrawl](https://github.com/any4ai/anycrawl-mcp-server)** - [AnyCrawl](https://anycrawl.dev) MCP Server, Powerful web scraping and crawling for Cursor, Claude, and other LLM clients via the Model Context Protocol (MCP).
 
 ## Community Servers
+
+- **[Shiori](https://github.com/kaorii-ako/Shiori-v1)** - AI study companion MCP server. Ask Claude about assignments, grades, notes, and flashcards. Google Classroom sync + Gemini AI. [Demo](https://shiori-v1.vercel.app)
 
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
